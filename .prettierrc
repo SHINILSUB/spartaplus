@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.format.enable": false,
+    "window.zoomLevel": 2,
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.unusualLineTerminators": "off",
+    "explorer.confirmDragAndDrop": false,
+    "prettier.jsxBracketSameLine": true
+  }
